@@ -1,12 +1,19 @@
-## Travail à faire:
+# Gestion des Tâches – Labs
 
+## Travail à faire
+- Gérer les tâches(Tags)
 
-## Labs :
-- Gerer les Tages
+## Fonctionnalité
+- Tâches (Admin)
 
-## Fonctionnalité :
-- Tages (admin) 
+## Réalisé par
+- Yasmine Haddad
 
-## Test Maquette :
-- M.Abdellatif Souklabi (formateur)
+## Supervisé par
+M.Abdellatif Souklabi
 
+## Livrable
+- Gestion des tâches (Admin)
+
+## Labs
+- Trait
