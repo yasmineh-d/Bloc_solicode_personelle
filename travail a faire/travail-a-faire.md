@@ -10,7 +10,7 @@
 - Yasmine Haddad
 
 ## Supervisé par
-M.Abdellatif Souklabi
+Mr. ESSARRAJ FOUAD
 
 ## Livrable
 - Gestion des tâches (Admin)
