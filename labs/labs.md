@@ -1,2 +1,2 @@
 ## labs:
-- Lravel Lang
+- Laravel Lang

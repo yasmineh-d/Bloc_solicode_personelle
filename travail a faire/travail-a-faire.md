@@ -1,7 +1,7 @@
 # Gestion des Tâches – Labs
 
 ## Travail à faire
-- Gérer les tâches(Tags)
+- Gérer les Tags
 
 ## Fonctionnalité
 - Tâches (Admin)
@@ -16,4 +16,4 @@ Mr. ESSARRAJ FOUAD
 - Gestion des tâches (Admin)
 
 ## Labs
-- Lravel Lang
+- Laravel Lang
