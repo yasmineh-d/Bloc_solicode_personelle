@@ -1,2 +1,2 @@
 ## labs:
-- Trait
+- Lravel Lang

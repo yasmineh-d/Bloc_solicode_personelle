@@ -16,4 +16,4 @@ Mr. ESSARRAJ FOUAD
 - Gestion des tâches (Admin)
 
 ## Labs
-- Trait
+- Lravel Lang
