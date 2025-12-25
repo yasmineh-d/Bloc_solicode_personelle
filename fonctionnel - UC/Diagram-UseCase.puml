@@ -1,0 +1,19 @@
+@startuml
+left to right direction
+
+actor "Administrateur" as Admin
+
+package "Gestion des Tags" {
+
+  usecase "Consulter les tags" as UC_VIEW
+  usecase "Ajouter un tag" as UC_ADD
+  usecase "Modifier un tag" as UC_EDIT
+  usecase "Supprimer un tag" as UC_REMOVE
+}
+
+Admin -- UC_VIEW
+Admin -- UC_ADD
+Admin -- UC_EDIT
+Admin -- UC_REMOVE
+
+@enduml
