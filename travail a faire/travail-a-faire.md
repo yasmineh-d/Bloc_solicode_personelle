@@ -18,3 +18,6 @@ Mr. ESSARRAJ FOUAD
 ## Labs
 - Laravel Lang
 - Gestion de Project
+
+## Entretien avec :
+- Formateur Abdellatif Souklabi
